@@ -1,0 +1,10 @@
+=== Banking System ===
+1. Deposit
+2. Withdraw
+3. Show Balance
+4. Mini Statement
+5. Add Interest
+6. Exit
+Choose an option: 1
+Enter amount to deposit: 2000
+Deposited: ₹2000
