@@ -1,0 +1,11 @@
+Navigate into the folder:
+
+cd BankingSystem
+
+Compile the Java files:
+
+javac *.java
+
+Run the program:
+
+java BankingApp
